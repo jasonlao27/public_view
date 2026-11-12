@@ -1,3 +1,6 @@
+# Web scrapper using MicroSoft PlayWright. User can input the desired search query in line 54 such as "lawyers in Portland" then the code will go into Google Map, query based on the input, find the businesses websites listed in the Google Map location and then go to the website and scrape the listed email on the website
+# use case: local small cleaning company can use it to find leads who could be reached out for cleaning services  
+
 import asyncio
 import random
 import re
